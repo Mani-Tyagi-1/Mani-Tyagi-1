@@ -1,4 +1,4 @@
-![Logo]()
+![Logo](https://github.com/Mani-Tyagi-1/Mani-Tyagi-1/blob/main/Mani%20BgBanner-min.png)
 
 
 <h1 align="center">Hi 👋, I'm Mani Tyagi</h1>
