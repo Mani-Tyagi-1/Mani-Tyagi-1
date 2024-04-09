@@ -1,7 +1,7 @@
-<h2 align="left">Hi 👋! My name is Mani Tyagi</h2>
+<h2 align="center">Hi 👋! My name is Mani Tyagi</h2>
 
 ###
-<div align="left" width="5rem">
+<div align="center" width="5rem">
   <img src="https://profile-counter.glitch.me/Mani-Tyagi-1/count.svg?"  />
 </div>
 
